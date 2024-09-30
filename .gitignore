@@ -1,0 +1,5 @@
+# Ignore Excel files
+*.xls
+
+# Ignore JPEG image files
+*.jpg
